@@ -8,6 +8,8 @@ Portfólio Lobo é o primeiro projeto do curso de HTML e CSS para Iniciantes da 
 
 Foi usado o Figma para prototipar o design do site e HTML e CSS para criação do código.
 
+Link do Projeto: https://pedroantonny.github.io/Portfolio/
+
 ## Layout web
 
 ![Web 1](https://github.com/arthurOd3v/portfolio-lobo/blob/main/img.png)
